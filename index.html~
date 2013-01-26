@@ -38,7 +38,7 @@
         <a href="submit.html">Submit</a>
         <a href="testimonials.html">Testimonials</a>
         <a href="contact.html">Contact</a>
-				<a href="http://blog.edityourstuff.com">Blog</a>
+        <a href="http://blog.edityourstuff.com">Blog</a>
       </nav>
       <div class="frontbox">
         <h2>About the Editor</h2>
@@ -55,7 +55,7 @@
       </div>
     </div>
     <footer>
-			&copy; John Shutt 2012 | <a href="http://www.shutt.in">shutt.in</a>
+      &copy; John Shutt 2012
     </footer>
   </div> <!--! end of #container -->
 
